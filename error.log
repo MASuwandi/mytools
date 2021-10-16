@@ -1,0 +1,5 @@
+[Sat Oct 16 00:00:18.308760 2021] [mpm_event:notice] [pid 1256:tid 140139346734144] AH00489: Apache/2.4.41 (Ubuntu) mod_wsgi/4.6.8 Python/3.8 configured -- resuming normal operations
+[Sat Oct 16 00:00:18.308799 2021] [core:notice] [pid 1256:tid 140139346734144] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Oct 16 00:12:52.508236 2021] [mpm_event:notice] [pid 1256:tid 140139346734144] AH00491: caught SIGTERM, shutting down
+[Sat Oct 16 05:18:52.165877 2021] [mpm_event:notice] [pid 1278:tid 140492334623808] AH00489: Apache/2.4.41 (Ubuntu) mod_wsgi/4.6.8 Python/3.8 configured -- resuming normal operations
+[Sat Oct 16 05:18:52.195324 2021] [core:notice] [pid 1278:tid 140492334623808] AH00094: Command line: '/usr/sbin/apache2'
